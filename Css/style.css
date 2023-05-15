@@ -1,0 +1,22 @@
+
+@font-face {
+    font-family: 'aviny';
+    font-style: normal;
+    font-weight: normal;
+    src: url(../fonts/avinyWeb.woff) format('woff');
+}
+
+body {
+    font-family: 'aviny', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #cfcfcf;
+    font-size: 25px;
+}
+
+a {
+    text-decoration: none;
+}
+.cont{
+    min-width: 100%;
+    min-height: 100vh;
+    margin-top: 150px;
+}
