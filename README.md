@@ -2,6 +2,8 @@
 
 This is a countdown timer web application that allows users to set a specific date and time and displays the remaining time until that date is reached. It provides a simple and intuitive interface for users to interact with.
 
+Check out the countdown timer [here](https://sadeq-yaqobi.github.io/simple-countDown-timer/).
+
 ## Technologies Used
 
 - HTML
@@ -26,9 +28,6 @@ This is a countdown timer web application that allows users to set a specific da
 - Automatic update: The timer automatically updates every second to reflect the current remaining time.
 - Persistent storage: If the page is refreshed or reopened, the previously selected date and countdown will be preserved.
 
-## Examples
-
-![Countdown Timer](images/simple-countDownTimer-01.png)
 
 ## Contributing
 
